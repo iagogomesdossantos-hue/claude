@@ -7,3 +7,7 @@ Para atualizar:
 ```bash
 npx skills add coreyhaines31/marketingskills --skill '*' --agent claude-code -y
 ```
+
+## Plugins
+
+O `.claude/settings.json` registra o marketplace `heygen-com/hyperframes` e ativa o plugin `hyperframes@hyperframes` (HyperFrames da HeyGen: HTML → vídeo).
